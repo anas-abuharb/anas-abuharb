@@ -1,17 +1,11 @@
 <div align="center">
 
 # ♟️ I'm Anas Abuharb
-### 🎓 Software Engineering Student @ ASU | 🏆 Competitive Programmer
+
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+@+ASU;Competitive+Programmer" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anas-abuharb&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Anas Abuharb" />
-</p>
-
----
-
-### 🐍 My GitHub Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anas-abuharb/anas-abuharb/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://komarev.com/ghpvc/?username=anas-abuharb&label=Profile%20Views&color=0e75b6&style=flat" alt="Anas Abuharb" />
 </p>
 
 ---
@@ -19,20 +13,16 @@
 ### 🛠️ Languages & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css,mysql,git,github,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css,mysql,git,github,vscode" />
   </a>
 </p>
 
 ---
 
-### 📊 Performance & Stats
+### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anas-abuharb&show_icons=true&theme=tokyonight&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anas-abuharb&theme=tokyonight" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas-abuharb&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anas-abuharb&show_icons=true&theme=tokyonight&hide_border=true" alt="Anas Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anas-abuharb&theme=tokyonight&hide_border=true" alt="Anas Streak" height="165" />
 </p>
 
 ---
