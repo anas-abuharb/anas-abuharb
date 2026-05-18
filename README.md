@@ -1,11 +1,17 @@
 <div align="center">
 
 # ♟️ I'm Anas Abuharb
-
-### Software Engineering Student @ ASU | Competitive Programmer
+### 🎓 Software Engineering Student @ ASU | 🏆 Competitive Programmer
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anas-abuharb&label=Profile%20Views&color=0e75b6&style=flat" alt="Anas Abuharb" />
+  <img src="https://komarev.com/ghpvc/?username=anas-abuharb&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Anas Abuharb" />
+</p>
+
+---
+
+### 🐍 My GitHub Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anas-abuharb/anas-abuharb/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -13,8 +19,20 @@
 ### 🛠️ Languages & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css,mysql,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css,mysql,git,github,vscode&theme=dark" />
   </a>
+</p>
+
+---
+
+### 📊 Performance & Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anas-abuharb&show_icons=true&theme=tokyonight&count_private=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anas-abuharb&theme=tokyonight" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas-abuharb&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 ---
