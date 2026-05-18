@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/hand_wave.gif" width="30px"> I'm Anas Abuharb
+# ♟️ I'm Anas Abuharb
 
 ### Software Engineering Student @ ASU | Competitive Programmer
 
