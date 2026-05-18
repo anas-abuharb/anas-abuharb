@@ -21,7 +21,7 @@
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anas-abuharb&show_icons=true&theme=tokyonight&hide_border=true" alt="Anas Stats" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=anas-abuharb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anas Stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anas-abuharb&theme=tokyonight&hide_border=true" alt="Anas Streak" height="165" />
 </p>
 
